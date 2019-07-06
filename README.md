@@ -12,5 +12,4 @@ TekapoCart 是我們自行改編 PrestaShop 的進化版本，有興趣的開發
 綠界模組安裝方面，若有需要協助，可以到 [TekapoCart 粉絲團](https://www.facebook.com/TekapoCart/) 傳訊息給我們，再一起討論。
 
 Cheers,
-
 Suzy
